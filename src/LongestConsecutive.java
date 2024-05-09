@@ -1,5 +1,6 @@
 import java.util.*;
 
+//最长连续序列
 public class LongestConsecutive {
     public static void main(String[] args) {
 

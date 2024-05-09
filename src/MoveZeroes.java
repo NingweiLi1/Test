@@ -3,6 +3,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
+//移动零
 public class MoveZeroes {
     public static void main(String[] args) {
 
